@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  
+  <br>
  🔭 I’m currently working on <b>Ecom-D</b>
   
 👨‍💻 All of my projects are available at https://github.com/Gabrieljr42
@@ -19,8 +19,9 @@
 
 📄 Know about my experiences https://www.linkedin.com/in/joão-gabriel-alves-junior-9653b5205/
 
- ⚡ Fun fact <b>I'm Christian</b>
-
+⚡ Fun fact <b>I'm Christian</b>
+  
+🌀 Beacons page <b>https://beacons.page/gabrieljr42</b>
  </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
