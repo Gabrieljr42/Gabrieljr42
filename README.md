@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+<div align="center">
 - 🔭 I’m currently working on **Ecom-D**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gabrieljr42](https://github.com/Gabrieljr42)
@@ -17,8 +17,9 @@
 
 - ⚡ Fun fact **I'm Christian**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ </div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/joão gabriel alves junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão gabriel alves junior" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_j.r42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_j.r42" height="30" width="40" /></a>
 </p>
