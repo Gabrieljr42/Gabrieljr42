@@ -4,20 +4,22 @@
 <a href="https://github.com/gabrieljr42" align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljr42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
 </div>
 </a>
 
-<div align="center">
-  <br>
- 🔭 I’m currently working on **Ecom-D**
-  <br>
-👨‍💻 All of my projects are available at https://github.com/Gabrieljr42
-  <br>
-📫 How to reach me **Gabrieljunior42566@gmail.com**
-<br>
-📄 Know about my experiences [https://www.linkedin.com/in/joão-gabriel-alves-junior-9653b5205/](https://www.linkedin.com/in/joão-gabriel-alves-junior-9653b5205/)
 
-⚡ Fun fact **I'm Christian**
+<div align="center">
+  
+ 🔭 I’m currently working on <b>Ecom-D</b>
+  
+👨‍💻 All of my projects are available at https://github.com/Gabrieljr42
+  
+📫 How to reach me <b>Gabrieljunior42566@gmail.com</b>
+
+📄 Know about my experiences https://www.linkedin.com/in/joão-gabriel-alves-junior-9653b5205/
+
+ ⚡ Fun fact <b>I'm Christian</b>
 
  </div>
 <h3 align="center">Connect with me:</h3>
