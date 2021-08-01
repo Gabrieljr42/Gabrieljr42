@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate BackEnd developer from Brazil</h3>
 
+<a href="https://github.com/gabrieljr42">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljr42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42i&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 - 🔭 I’m currently working on **Ecom-D**
 
