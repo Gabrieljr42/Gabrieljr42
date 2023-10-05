@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate BackEnd developer from Brazil</h3>
 
-<a href="https://github.com/gabrieljr42" align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
-  <br>
+<div align="center">
+  <a href="https://github.com/gabrieljr42">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
-</a>
 
 
 <div align="center">
