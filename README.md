@@ -2,8 +2,8 @@
 <h3 align="center">A passionate BackEnd developer from Brazil</h3>
 
 <a href="https://github.com/gabrieljr42" align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljr42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+  <img align="center" height="180em" src="https://imgur.com/TB4sCig"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
   <br>
 </div>
 </a>
