@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/gabrieljr42">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
-     <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+   <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
   </a>
 </div>
 
@@ -17,7 +17,7 @@
   
 📫 How to reach me <b>Gabrieljunior42566@gmail.com</b>
 
-📄 Know about my experiences https://www.linkedin.com/in/joão-gabriel-alves-junior-9653b5205/
+📄 Know about my experiences https://www.linkedin.com/in/joão-gabriel-alves-junior/
 
 🌀 Beacons page <b>https://beacons.page/gabrieljr42</b> 
   
