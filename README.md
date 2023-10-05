@@ -2,7 +2,7 @@
 <h3 align="center">A passionate BackEnd developer from Brazil</h3>
 
 <a href="https://github.com/gabrieljr42" align="center">
-  <img align="center" height="180em" src="https://imgur.com/TB4sCig"/>
+  <img align="center" height="180em" src="https://imgur.com/a/D9ATZUJ"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
   <br>
 </div>
