@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate BackEnd developer from Brazil</h3>
 
-<div align="center">
-  <a href="https://github.com/gabrieljr42">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
-   <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/gabrieljr42" style="display: flex; flex-direction: column; align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://i.imgur.com/kPjGg76.png" style="margin-top: 10px;">
   </a>
 </div>
+
 
 
 <div align="center">
