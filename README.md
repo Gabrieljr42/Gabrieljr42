@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://github.com/gabrieljr42">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" height="180em" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
   </a>
 </div>
 
