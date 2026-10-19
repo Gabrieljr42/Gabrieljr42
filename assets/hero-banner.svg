@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.65" />
+    </pattern>
+
+    <clipPath id="bannerClip">
+      <rect width="1200" height="300" rx="18" ry="18" />
+    </clipPath>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        fill: #F8FAFC;
+        letter-spacing: -0.8px;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        fill: url(#accentGrad);
+        letter-spacing: 0.3px;
+      }
+      .desc {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif;
+        font-size: 14.5px;
+        font-weight: 400;
+        fill: #94A3B8;
+      }
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 12px;
+        font-weight: 500;
+        fill: #CBD5E1;
+      }
+      .node-title {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #E2E8F0;
+      }
+      .node-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 10px;
+        fill: #64748B;
+      }
+      .flow-line {
+        stroke-dasharray: 6 6;
+        animation: flow 12s linear infinite;
+      }
+      .pulse-dot {
+        animation: pulse 3s ease-in-out infinite;
+      }
+      @keyframes flow {
+        to { stroke-dashoffset: -120; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.45; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <!-- Base Background -->
+    <rect width="1200" height="300" fill="url(#bgGrad)" />
+    <rect width="1200" height="300" fill="url(#grid)" />
+
+    <!-- Ambient Glows -->
+    <circle cx="200" cy="60" r="260" fill="url(#glowBlue)" />
+    <circle cx="980" cy="160" r="280" fill="url(#glowPurple)" />
+
+    <!-- Top Accent Line -->
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accentGrad)" />
+
+    <!-- Left Column: Identity & Value Proposition -->
+    <!-- Status Pill -->
+    <rect x="56" y="42" width="352" height="28" rx="14" fill="#1E293B" fill-opacity="0.75" stroke="#334155" stroke-width="1" />
+    <circle cx="74" cy="56" r="4.5" fill="#10B981" class="pulse-dot" />
+    <text x="88" y="60" class="mono">Software Engineer · Since 2021 · Brazil</text>
+
+    <!-- Main Name -->
+    <text x="56" y="122" class="title">João Gabriel Alves Junior</text>
+
+    <!-- Subtitle -->
+    <text x="56" y="154" class="subtitle">Backend Engineering · Distributed Pipelines · Applied AI</text>
+
+    <!-- Description -->
+    <text x="56" y="190" class="desc">Designing resilient APIs, relational data models, background workers, and</text>
+    <text x="56" y="212" class="desc">source-backed AI systems that connect domain logic to polished user products.</text>
+
+    <!-- Domain Pills -->
+    <g transform="translate(56, 236)">
+      <rect x="0" y="0" width="136" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1.2" />
+      <text x="68" y="17" text-anchor="middle" class="mono" fill="#38BDF8">APIs &amp; Systems</text>
+
+      <rect x="146" y="0" width="142" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1.2" />
+      <text x="217" y="17" text-anchor="middle" class="mono" fill="#818CF8">Data Pipelines</text>
+
+      <rect x="298" y="0" width="136" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1.2" />
+      <text x="366" y="17" text-anchor="middle" class="mono" fill="#C084FC">RAG &amp; Applied AI</text>
+
+      <rect x="444" y="0" width="124" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1.2" />
+      <text x="506" y="17" text-anchor="middle" class="mono" fill="#34D399">Open Source</text>
+    </g>
+
+    <!-- Right Column: Architectural Blueprint Graphic -->
+    <g transform="translate(720, 38)">
+      <!-- Backdrop Frame -->
+      <rect x="0" y="0" width="424" height="224" rx="14" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+
+      <!-- Window Header Dots -->
+      <circle cx="20" cy="18" r="4" fill="#EF4444" fill-opacity="0.8" />
+      <circle cx="34" cy="18" r="4" fill="#F59E0B" fill-opacity="0.8" />
+      <circle cx="48" cy="18" r="4" fill="#10B981" fill-opacity="0.8" />
+      <text x="66" y="22" class="node-sub" fill="#94A3B8">architecture://systems-overview</text>
+      <line x1="0" y1="34" x2="424" y2="34" stroke="#1E293B" stroke-width="1" />
+
+      <!-- Connecting Animated Pipelines -->
+      <path d="M 140 78 L 196 78" stroke="#38BDF8" stroke-width="1.5" class="flow-line" fill="none" />
+      <path d="M 140 162 L 196 162" stroke="#818CF8" stroke-width="1.5" class="flow-line" fill="none" />
+      <path d="M 258 104 L 258 136" stroke="#64748B" stroke-width="1.5" class="flow-line" fill="none" />
+      <path d="M 320 78 L 352 120" stroke="#38BDF8" stroke-width="1.5" class="flow-line" fill="none" />
+      <path d="M 320 162 L 352 120" stroke="#C084FC" stroke-width="1.5" class="flow-line" fill="none" />
+
+      <!-- Node 1: API & Core Backend -->
+      <rect x="22" y="54" width="118" height="48" rx="8" fill="#090D16" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.7" />
+      <text x="34" y="75" class="node-title">Core APIs</text>
+      <text x="34" y="90" class="node-sub">Laravel · FastAPI</text>
+
+      <!-- Node 2: Workers & Ingestion -->
+      <rect x="22" y="138" width="118" height="48" rx="8" fill="#090D16" stroke="#818CF8" stroke-width="1.2" stroke-opacity="0.7" />
+      <text x="34" y="159" class="node-title">Async Workers</text>
+      <text x="34" y="174" class="node-sub">Celery · Redis · Jobs</text>
+
+      <!-- Node 3: Storage & Vector DB -->
+      <rect x="196" y="54" width="124" height="48" rx="8" fill="#090D16" stroke="#334155" stroke-width="1.2" />
+      <text x="208" y="75" class="node-title">Data &amp; Vectors</text>
+      <text x="208" y="90" class="node-sub">Postgres · pgvector</text>
+
+      <!-- Node 4: AI / RAG Engine -->
+      <rect x="196" y="138" width="124" height="48" rx="8" fill="#090D16" stroke="#C084FC" stroke-width="1.2" stroke-opacity="0.7" />
+      <text x="208" y="159" class="node-title">Applied AI / RAG</text>
+      <text x="208" y="174" class="node-sub">LLMs · Grounding</text>
+
+      <!-- Node 5: Client Products -->
+      <rect x="344" y="96" width="62" height="48" rx="8" fill="#090D16" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.8" />
+      <text x="375" y="117" text-anchor="middle" class="node-title">Apps</text>
+      <text x="375" y="132" text-anchor="middle" class="node-sub">Web/Mob</text>
+
+      <!-- Footer Telemetry inside Card -->
+      <line x1="0" y1="198" x2="424" y2="198" stroke="#1E293B" stroke-width="1" />
+      <circle cx="24" cy="211" r="3.5" fill="#38BDF8" />
+      <text x="34" y="214" class="node-sub" fill="#94A3B8">REST · SQL · Docker · TypeScript · Python · PHP · Java</text>
+    </g>
+
+    <!-- Outer Border -->
+    <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="17.25" ry="17.25" fill="none" stroke="#1E293B" stroke-width="1.5" />
+  </g>
+</svg>
