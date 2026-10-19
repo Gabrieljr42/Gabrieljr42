@@ -131,7 +131,7 @@ An interactive research archive and 3D WebGL experience comparing **Retrieval-Au
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ [GymIA](https://github.com/Gabrieljr42/GYM-AI)
+### 🏋️ [GymIA](https://github.com/Gabrieljr42/GymIA)
 <img src="https://img.shields.io/badge/LLM_Workflows_·_Academic_Prototype-10B981?style=flat-square&labelColor=0F172A" alt="LLM Workflows" />
 
 An AI-assisted workout planning platform for physical education professionals. Combines instructor/client management with a **fine-tuned OpenAI generation workflow** that produces structured, human-editable training plans persisted in MySQL.
@@ -145,24 +145,26 @@ An AI-assisted workout planning platform for physical education professionals. C
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-[**Explore Repository →**](https://github.com/Gabrieljr42/GYM-AI)
+[**Explore Repository →**](https://github.com/Gabrieljr42/GymIA)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 [Tree Visualizer](https://github.com/Gabrieljr42/TreeVisualizer)
-<img src="https://img.shields.io/badge/Graph_Algorithms_·_Interactive_Viz-F59E0B?style=flat-square&labelColor=0F172A" alt="Graph Algorithms" />
+### 📱 [Android Fitness Ecosystem](https://github.com/Gabrieljr42/android-fitness-ecosystem)
+<img src="https://img.shields.io/badge/Local--First_Android_·_Health_Connect-3DDC84?style=flat-square&labelColor=0F172A" alt="Local-First Android" />
 
-An interactive visual laboratory for constructing weighted graphs, inspecting edge sets, and computing **Minimum Spanning Trees (MST)** step-by-step using **Kruskal's algorithm** and force-directed D3.js rendering.
+A local-first Android health & fitness suite (**Evolução**, **NutriTrack**, **Coach**) featuring double-progression tracking, nutrition logging via on-device **Google Gemini AI**, **Wear OS** phone-to-watch sync, and unified **Health Connect** readiness scoring.
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Graph_Theory-0F172A?style=flat-square" alt="Graph Theory" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Health_Connect-4285F4?style=flat-square&logo=google&logoColor=white" alt="Health Connect" />
+  <img src="https://img.shields.io/badge/Wear_OS-00897B?style=flat-square&logo=wearos&logoColor=white" alt="Wear OS" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-[**Explore Repository →**](https://github.com/Gabrieljr42/TreeVisualizer)
+[**Explore Repository →**](https://github.com/Gabrieljr42/android-fitness-ecosystem)
 
 </td>
 </tr>
