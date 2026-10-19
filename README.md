@@ -1,36 +1,133 @@
-<h1 align="center">Hi 👋, I'm João Gabriel</h1>
-<h3 align="center">A passionate BackEnd developer from Brazil</h3>
-
+<!-- Profile README · João Gabriel Alves Junior -->
 <div align="center">
-  <a href="https://github.com/gabrieljr42">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljr42&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+
+# João Gabriel Alves Junior
+
+**Software Engineer · Backend Development · Applied AI**
+
+I build backend systems, integrations and AI-assisted applications — from web platforms and developer tooling to data pipelines and thoughtful user experiences.
+
+Based in Brazil · Information Systems · Building software professionally since 2021
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alves-junior/) &nbsp;·&nbsp; [Email](mailto:Gabrieljunior42566@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Gabrieljr42)
+
 </div>
 
+---
+
+### What I work on
+
+My foundation is **backend engineering**: APIs, relational databases, integrations, business rules and maintainable systems. I have worked extensively with **PHP, Laravel, WordPress/WooCommerce and MySQL**, and increasingly build with **Python, TypeScript and applied AI**.
+
+I'm interested in software that connects the whole problem: the domain model, the integration points, the infrastructure, the user-facing product and the decisions that make it reliable.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend & integrations**
+
+PHP · Laravel · WordPress · WooCommerce  
+Python · FastAPI · Java · Spring Boot  
+REST APIs · MySQL · PostgreSQL
+
+</td>
+<td width="50%" valign="top">
+
+**Products & intelligent systems**
+
+TypeScript · React · Next.js · React Native  
+Docker · Redis · background workers  
+LLMs · RAG · retrieval and automation
+
+</td>
+</tr>
+</table>
+
+### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Observador de Concursos](https://github.com/Gabrieljr42/ObservadorConcursos)
+
+**Public-exam monitoring · Data pipelines**
+
+A system for aggregating Brazilian public-exam notices, tracking updates and making collected information available through an offline-first mobile app.
+
+`FastAPI` `PostgreSQL` `Redis` `Celery` `React Native`
+
+[Explore the project →](https://github.com/Gabrieljr42/ObservadorConcursos)
+
+</td>
+<td width="50%" valign="top">
+
+#### [ThePensive](https://github.com/Gabrieljr42/ThePensive)
+
+**Applied AI · Retrieval & evaluation**
+
+An interactive research experience comparing retrieval-augmented generation with full-context approaches, including source-backed answers and an immersive interface.
+
+`Next.js` `FastAPI` `pgvector` `RAG` `TypeScript`
+
+[Explore the project →](https://github.com/Gabrieljr42/ThePensive)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [GymIA](https://github.com/Gabrieljr42/GYM-AI)
+
+**AI-assisted training · Academic project**
+
+A prototype supporting fitness professionals with client management and editable workout-plan generation using a language model.
+
+`Node.js` `Express` `React` `Prisma` `MySQL` `OpenAI`
+
+[Explore the project →](https://github.com/Gabrieljr42/GYM-AI)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Tree Visualizer](https://github.com/Gabrieljr42/TreeVisualizer)
+
+**Algorithms · Interactive visualization**
+
+An interface for exploring graphs and computing minimum spanning trees with Kruskal's algorithm.
+
+`React` `Vite` `D3.js` `Algorithms`
+
+[Explore the project →](https://github.com/Gabrieljr42/TreeVisualizer)
+
+</td>
+</tr>
+</table>
+
+### Open source contributions
+
+I also contribute fixes, tests and improvements to projects across the Java, PHP and Python ecosystems. A few merged pull requests:
+
+- **[jvm-mcp](https://github.com/oscarbol09/jvm-mcp/pull/85)** — delayed JMX initialization until the Spring Actuator probe, alongside [additional](https://github.com/oscarbol09/jvm-mcp/pull/82) [runtime fixes](https://github.com/oscarbol09/jvm-mcp/pull/81).
+- **[Larastan](https://github.com/larastan/larastan/pull/2605)** — added generic Eloquent scope typing support.
+- **[Vavr](https://github.com/vavr-io/vavr/pull/3372)** — added tests for null error-mapper results.
+- **[Repowise](https://github.com/repowise-dev/repowise/pull/4083)** — improved dead-code penalty normalization.
+
+[Browse my pull requests →](https://github.com/pulls?q=is%3Apr+author%3AGabrieljr42)
+
+### Background
+
+**Professional software development since 2021**, with experience building and maintaining web applications, business integrations, APIs and database-backed platforms. My academic work in Information Systems has also led me to explore how language models can support real-world professional workflows.
+
+I enjoy taking an idea beyond a proof of concept: understanding the constraints, designing the architecture, working through edge cases and making the result useful.
+
+---
 
 <div align="center">
 
-  🔭 I’m currently working on <b>Ecom-D</b>
-  
-  👨‍💻 All of my projects are available at https://github.com/Gabrieljr42
-  
-📫 How to reach me <b>Gabrieljunior42566@gmail.com</b>
+**Let's connect.**
 
-📄 Know about my experiences https://www.linkedin.com/in/joão-gabriel-alves-junior/
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alves-junior/) · [Email](mailto:Gabrieljunior42566@gmail.com) · [Repositories](https://github.com/Gabrieljr42?tab=repositories)
 
-🌀 Beacons page <b>https://beacons.page/gabrieljr42</b> 
-  
-⚡ Fun fact <b>I'm Christian</b>
-  
- </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/joão gabriel alves junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão gabriel alves junior" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel_j.r42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_j.r42" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-![Snake animation](https://github.com/gabrieljr42/gabrieljr42/blob/output/github-contribution-grid-snake.svg)
-
+</div>
